@@ -1,4 +1,4 @@
-API GATEWAY PATTERN
+API GATEWAY PATTERN FOR Track-Service
 
 The api-gateway application acts the router and authentication and authorization endpoint.
 
